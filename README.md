@@ -1,6 +1,6 @@
 # 📚 Hi, we’re Centennial College OER Lab
 
-Welcome to our Open Educational Resources Lab! We're passionate about creating, sharing, and supporting open-access educational materials to empower learners and educators worldwide.
+Welcome to the official GitHub repository for Centennial College's Open Educational Resources (OER) Lab. This platform is dedicated to providing accessible and openly licensed assets that contribute to the global movement of freely available academic resources for students, educators, and the broader community. 
 
 ## 👀 We’re interested in ...
 - Developing and curating open textbooks, lesson plans, and multimedia resources.
